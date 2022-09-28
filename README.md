@@ -1,19 +1,80 @@
-# About Me
+# 💁🏼‍♀️ About Me
 
-## The Cliff Notes:
+I'm a young computer programmer with a passion for backend web application design, systems administration, and cybersecurity.
+
+## 🧬 Background:
 - 🎓 Computer Science Undergraduate
-- 🔭 Former NASA intern
-- 💻 Self Taught
-- 🛠 Focus on Backend Web Application Development
+- 🔭 Former NASA intern (Ames and GSFC)
+- 💻 Self Taught Programmer
 
-## 💱 Languages
+## ✨ Dream Job
+- 📡 Design Backend for Web Applications
+- 💾 Translate Legacy Fortran Code to Higher-Level Language
+- 🚀 Work for NASA in any Capacity
+
+## 💱 Languages, Frameworks, Programs, & Platforms
+
+I have at least a working familiarity with the following:
+
+![](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic
+) 
+![](https://img.shields.io/badge/-Fedora-51A2DA?logo=fedora&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-FontAwesome-528DD7?logo=fontawesome&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-iTerm2-000000?logo=iterm2&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Java-000000?logo=java&logoColor=white&style=plastic
+) 
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-MacOS-000000?logo=macos&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Microsoft365-5E5E5E?logo=microsoft&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-NodeJS-339933?logo=nodedotjs&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=plastic
+)
 ![](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic
 ) 
-
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white&style=plastic
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic
 )
-
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white&style=plastic
+![](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-SublimeText-FF9800?logo=sublimetext&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-VisualStudioCode-007ACC?logo=visualstudiocode&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-YAML-000000?logo=yml&logoColor=white&style=plastic
+)
+![](https://img.shields.io/badge/-ZSH-000000?logo=zsh&logoColor=white&style=plastic
 )
 
 ## 🎓 My Education
