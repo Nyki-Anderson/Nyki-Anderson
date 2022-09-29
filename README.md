@@ -102,7 +102,3 @@ Shape_Search is the first iteration of my shape[^1] themed web application proje
 Shape-Share is the product of my trial and error process but is essentially a refined clone of Shape_Search. The goal with this project, is to provide a Github-hosted reference for other beginner programmers who want to configure their localhost, secure their database, and other beginner struggles. It is intended to be an exercise in building secure websites and I'm mostly learning as I go. 
 
 Its predecessor, is much more fleshed out as I used CodeIgniter to get up and going but I wanted to challenge myself to design without a framework catching all my mistakes. As such, its progression is much slower and the potential for security holes is high. I have enlisted the help of a student of penetration testing to aid in active security checks, which will likely continue through the lifetime of the project.
-
-Find me on LinkedIn:
-{{ site.linkedin_badge }}
-
