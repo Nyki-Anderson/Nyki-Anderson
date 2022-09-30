@@ -93,12 +93,12 @@ At this point in my education, I intend to specialize in backend web development
 
 I am mostly self-taught. Throughout the break in my education I started and restarted various personal web application projects both from scratch and using the CodeIgniter framework. During the pandemic, I got the coding itch and started Shape_Search, and later, Shape-Share, simple image sharing platforms and forums. In both projects, I relied heavily on my fellow Github teachers and online tutorials (I'm still learning!) though my focus was exploring as much functionality as I could within one project.
 
-### 📌 [Shape_Search](https://github.com/shape_search)
+### 📌 [Shape_Search](https://github.com/Nyki-Anderson/shape_search)
 Shape_Search is the first iteration of my shape[^1] themed web application projects.  It offers loads of features for members (free of course) including image upload, profile design, like/dislike, comment, search, and organize images into albums. Care was made to create and protect a safe-space for all ages including foul-language filters and active content moderation. While it was never meant to be deployed, it serves as an example of my coding interests and learning process. 
 
 [^1]: Why shapes? So I could use images created in Paint and avoid copyright infringement.
 
-### 📌 [Shape-Share](https://github.com/shape-share)
+### 📌 [Shape-Share](https://github.com/Nyki-Anderson/shape-share)
 Shape-Share is the product of my trial and error process but is essentially a refined clone of Shape_Search. The goal with this project, is to provide a Github-hosted reference for other beginner programmers who want to configure their localhost, secure their database, and other beginner struggles. It is intended to be an exercise in building secure websites and I'm mostly learning as I go. 
 
 Its predecessor, is much more fleshed out as I used CodeIgniter to get up and going but I wanted to challenge myself to design without a framework catching all my mistakes. As such, its progression is much slower and the potential for security holes is high. I have enlisted the help of a student of penetration testing to aid in active security checks, which will likely continue through the lifetime of the project.
