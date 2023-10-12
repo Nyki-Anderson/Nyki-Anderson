@@ -1,6 +1,6 @@
 # 💁🏼‍♀️ About Me
 
-I'm a young computer programmer with a passion for backend web application design, systems administration, and cybersecurity.
+I'm a young computer programmer with a passion for backend web application pipelines, systems administration, and cybersecurity. 
 
 ## 🧬 Background:
 - 🎓 Computer Science Undergraduate
@@ -8,13 +8,13 @@ I'm a young computer programmer with a passion for backend web application desig
 - 💻 Self Taught Programmer
 
 ## ✨ Dream Job
-- 📡 Design Backend for Web Applications
-- 💾 Translate Legacy Fortran Code to Higher-Level Language
-- 🚀 Work for NASA in any Capacity
+- 📡 Configuring Secure Backend Web Applications
+- 💾 Translating Legacy Fortran Code to Higher-Level Language
+- 🚀 Work for NASA or U.S. Government in any Capacity
 
 ## 💱 Languages, Frameworks, Programs, & Platforms
 
-I have at least a working familiarity with the following:
+I have at least a working familiarity with the following (and growing):
 
 ![](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=plastic
 )
@@ -87,7 +87,11 @@ Greetings everyone! My name is Nyki Anderson, I am an undergraduate **Computer S
 
 Despite changing majors several times in that time, I have always been a Bachelor of Science candidate: from math, computer science, atmospheric sciences, physics, and back to computer science I have always loved the hard sciences. And throughout my educational career I have had several distinct challenges and successes in those fields. I've had several NASA internships and presented various research projects at interdisciplinary symposiums, university colloquiums, and international conferences. All of which have characterized the kind of scientist I am becoming. 
 
-At this point in my education, I intend to specialize in backend web development especially as it pertains to security. I'm interested in the DevSecOps method of integrating security into every aspect of the development process. As such, I firmly believe in working closesly with penetration testers and so-called ethical hackers and I use their unique skillset to test my own applications. 
+At this point in my education, I intend to specialize in backend web development especially as it pertains to security. I interned with the COVA CCI Cybersecurity Research program in Spring of 2023 where I had my hands in Python's tensor libraries (PyTorch) training a neural network model to differentiate between arbitrary network traffic. As a proof of concept, this simple model substantiates the use of machine learning in detecting malicioius network traffic given the proper training dataset. You can review my [published research](https://digitalcommons.odu.edu/covacci-undergraduateresearch/2023spring/projects/8/) for this experience and/or request to view the source code as well.
+
+I'm interested in the DevSecOps method of integrating security into every aspect of the development process. I've done extensive research on the topic and would be interested in working with any organization with such a culture. As such, I firmly believe in working closesly with penetration testers and so-called ethical hackers. In my hacking capacity at BugCrowd, I have a unique perspective as a programmer, which allows me to attack applications from angles other more cyber-oriented folks might not. 
+
+While a fulltime courseload has me booked up lately, I am enrolled in the [PortSwigger Web Security Academy](https://portswigger.net/web-security) where I am learning penetration techniques: from SQL injection and XSS Dom attacks, to bruteforcing passwords with personally developed Python scripts. I employ OWASP's ZAP tool for site crawling and cascading repeater requests rather than use the industry favorite, BurpSuite. While I enjoy how slick Burp is, the Automation Framework in ZAP allows me to script my scans for more precise and targeted reports. I am thoroughly enjoying having my coding cake and eating it too!
 
 ## 🛠 Current Projects
 
