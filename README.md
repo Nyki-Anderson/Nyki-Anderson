@@ -1,4 +1,4 @@
-![Squirrel Banner](https://github.com/user-attachments/assets/05a21064-2b2b-445a-9c06-aff4f8efbcc1)
+![Github Banner](https://github.com/user-attachments/assets/f56ee922-3b1b-4cf8-ab3f-eef238ea2f62)
 
 # 🌰 The Programming Squirrel
 
