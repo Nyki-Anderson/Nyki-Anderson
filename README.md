@@ -23,4 +23,4 @@ Deep-diving into coding projects that - plot twist - always turn into some explo
 
 ## 👇🏻 Follow Me
 
-If you're still reading, check me out on [YouTube](https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A), [GitHub](https://github.com/Nyki-Anderson), and my other socials (`@programming_squirrel`). Drop me a comment for topics you want me to tackle and don't forget to like and subscribe below!
+If you're still reading, check me out on [YouTube](https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A) and my other socials (`@programming_squirrel`). Drop me a comment for topics you want me to tackle and don't forget to like and subscribe below!
