@@ -21,16 +21,16 @@ I call this *squirreling* on code.
 
 ## 🔗 Links to My Socials
 
-<div style="text-align:center; display:block">
-  <div>
-    <a href="https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A" alt="Follow the Programming-Squirrel Channel on YouTube">
-        <img src="images/youtube.svg" alt="YouTube Logo" style="width:50px; margin:15px">
+If you're still reading, check me out on YouTube, Facebook, or email me for topics you want me to tackle and don't forget to like and subscribe!
+
+<div style="text-align:center;">
+    <a href="https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A" title="Follow the Programming-Squirrel Channel on YouTube" style="text-decoration:none;">
+        <img src="images/youtube.svg" alt="YouTube Logo" style="width:50px; margin-right:15px;"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=61567216955618" alt="Like the Programming-Squirrel Facebook Page">
-      <img src="images/facebook.svg" alt="Facebook Logo" style="width:50px; margin:15p">
+    <a href="https://www.facebook.com/profile.php?id=61567216955618" title="Like the Programming-Squirrel Facebook Page" style="text-decoration:none;"/>
+      <img src="images/facebook.svg" alt="Facebook Logo" style="width:50px; margin-right:15px;">
     </a>
-    <a href="mailto:programming.squirrel@gmail.com" alt="Send me an Email">
-      <img src="images/email.svg" alt="Email Logo" style="width:50px; margin:15p">
+    <a href="mailto:programming.squirrel@gmail.com" title="Send me an Email" style="text-decoration:none;">
+      <img src="images/email.svg" alt="Email Logo" style="width:50px; margin:15px;"/>
     </a>
-  </div>
 </div>
