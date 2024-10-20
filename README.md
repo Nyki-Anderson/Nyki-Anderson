@@ -21,7 +21,7 @@ I call this *squirreling* on code.
 
 ## 🔗 Links to My Socials
 
-<div style="justify-content:center; display:block">
+<div style="text-align:center; display:block">
   <div>
     <a href="https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A" alt="Follow the Programming-Squirrel Channel on YouTube">
         <img src="images/youtube.svg" alt="YouTube Logo" style="width:50px; margin:15px">
