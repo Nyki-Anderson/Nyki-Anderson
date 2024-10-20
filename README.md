@@ -1,31 +1,36 @@
-![Github Banner](https://github.com/user-attachments/assets/f56ee922-3b1b-4cf8-ab3f-eef238ea2f62)
+![Github Banner](https://github.com/user-attachments/assets/893e7bd8-6e77-463e-9963-454d002f86a0)
 
 # 🌰 The Programming Squirrel
 
-Hi, and welcome to my profile! My name is **Nyki**, and I'm a devout programmer. I'm the brainchild of *Programming Squirrel* tutorials and thought leadership content. 
+Hi, and welcome to my profile! My name is Nyki, and I'm a devout programmer. I'm the brainchild of **Programming Squirrel** tutorials and thought leadership content.
 
 ## 💁🏼‍♀️ A little bit about myself
 
-- I've been obsessed with coding for *10 years* now.
+- I've been obsessed with coding for 10 years now.
 - I've participated in 5 undergrad internships with NASA and other organizations.
 - I'm mostly self-taught, and I'm all the way ADHD.
 
----
-
 ## 💻 My specialty
 
-Deep-diving into coding projects that - plot twist - always turn into some exploration down the rabbit hole. By the end, I have a very *specific* understanding of two new coding languages, three new applications, and a bunch of "useless" knowledge I turn into tutorials and other content. 
+Deep-diving into coding projects that - plot twist - always turn into some exploration down the rabbit hole. By the end, I have a very specific understanding of two new coding languages, three new applications, and a bunch of "useless" knowledge I turn into tutorials and other content.
+ 
+## ✨ Coin the Term
 
-> ### ✨ Coin the Term
-> I call this *squirreling* on code.
-
----
-
-## 👇🏻 Follow Me
-
-If you're still reading, check me out on [YouTube](https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A) and my other socials (`@programming_squirrel`). Drop me a comment for topics you want me to tackle and don't forget to like and subscribe below!
+I call this *squirreling* on code.
 
 
-<a href="https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
+## 🔗 Links to My Socials
+
+<div style="justify-content:center; display:block">
+  <div>
+    <a href="https://www.youtube.com/channel/UC4iMa6cylgmPzCmoOVx529A" alt="Follow the Programming-Squirrel Channel on YouTube">
+        <img src="images/youtube.svg" alt="YouTube Logo" style="width:50px; margin:15px">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61567216955618" alt="Like the Programming-Squirrel Facebook Page">
+      <img src="images/facebook.svg" alt="Facebook Logo" style="width:50px; margin:15p">
+    </a>
+    <a href="mailto:programming.squirrel@gmail.com" alt="Send me an Email">
+      <img src="images/email.svg" alt="Email Logo" style="width:50px; margin:15p">
+    </a>
+  </div>
+</div>
